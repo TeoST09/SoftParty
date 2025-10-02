@@ -5,7 +5,7 @@ Proyecto en PHP orientado a objetos (POO) con HTML, CSS y un poco de Bootstrap. 
 
 Características principales
 
-Arquitectura en POO (PHP) para modelos, controladores y lógica.
+Arquitectura en POO (PHP)
 
 Interfaz con HTML / CSS y Bootstrap para estilos rápidos y responsivos.
 
